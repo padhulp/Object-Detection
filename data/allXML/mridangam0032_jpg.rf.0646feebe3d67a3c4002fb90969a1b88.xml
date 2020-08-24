@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>mridangam0032_jpg.rf.0646feebe3d67a3c4002fb90969a1b88.jpg</filename>
+	<path>mridangam0032_jpg.rf.0646feebe3d67a3c4002fb90969a1b88.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mridangam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>401</xmax>
+			<ymin>15</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

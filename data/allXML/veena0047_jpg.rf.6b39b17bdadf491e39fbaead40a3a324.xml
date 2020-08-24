@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>veena0047_jpg.rf.6b39b17bdadf491e39fbaead40a3a324.jpg</filename>
+	<path>C:\Projects\Object Detection\train\veena0047_jpg.rf.6b39b17bdadf491e39fbaead40a3a324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Veena</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1</xmax>
+			<ymax>1</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Veena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>23</ymin>
+			<xmax>466</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>mridangam0167_jpg.rf.36943b42e2732ba9b259f0513bdded05.jpg</filename>
+	<path>C:\Projects\Object Detection\train\mridangam0167_jpg.rf.36943b42e2732ba9b259f0513bdded05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mridangam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>231</ymin>
+			<xmax>366</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

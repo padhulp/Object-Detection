@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>veena0111_jpg.rf.52437b80a825537102c9ccaec9e082ed.jpg</filename>
+	<path>veena0111_jpg.rf.52437b80a825537102c9ccaec9e082ed.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Veena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>406</xmax>
+			<ymin>276</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

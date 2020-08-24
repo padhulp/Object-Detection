@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>veena0061_jpg.rf.8530d9cfd2a47db88a109eb69a5c45b3.jpg</filename>
+	<path>C:\Projects\Object Detection\test\veena0061_jpg.rf.8530d9cfd2a47db88a109eb69a5c45b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Veena</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>11</ymin>
+			<xmax>351</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

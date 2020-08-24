@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>valid</folder>
+	<filename>mridangam0011_jpg.rf.1a5f8dd1376a1b3cf87c1f88028d3a0e.jpg</filename>
+	<path>C:\Projects\Object Detection\valid\mridangam0011_jpg.rf.1a5f8dd1376a1b3cf87c1f88028d3a0e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mridangam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>112</ymin>
+			<xmax>416</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>mridangam0058_jpg.rf.36880ce800d853e1278d1b6c1fe364e3.jpg</filename>
+	<path>C:\Projects\Object Detection\test\mridangam0058_jpg.rf.36880ce800d853e1278d1b6c1fe364e3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mridangam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>115</ymin>
+			<xmax>409</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
